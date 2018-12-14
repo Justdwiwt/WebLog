@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="hbase-lib">
+    <CLASSES>
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/hbase-lib" />
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/kafka-lib" />
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/other-lib" />
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/storm-kafka-lib" />
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/storm-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/hbase-lib" />
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/kafka-lib" />
+      <root url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/storm-lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/hbase-lib" recursive="false" />
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/kafka-lib" recursive="false" />
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/other-lib" recursive="false" />
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/storm-kafka-lib" recursive="false" />
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/storm-lib" recursive="false" />
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/hbase-lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/kafka-lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://D:/BIG_DATA/大数据项目/项目第一天/项目第二天课前资料/代码环境依赖包/storm-lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
